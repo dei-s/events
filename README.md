@@ -25,21 +25,20 @@
 Среда, 5 июня - сбор участников в 18:30
 
 18:30-19:00
-
 19:00-20:00
-
 20:00-21:00
 
 ## Организаторы и партнеры
+
+![DEI](https://cdn.worldvectorlogo.com/logos/digital-economy-institute-of-name-vmglushkov.svg)
 * Институт Цифровой Экономики им. В.М.Глушкова
+
+![Zerih](https://www.zerich.com/themes/zericheu/images/logo-zerich-new-header.svg)
 * ЦЕРИХ Кэпитал Менеджмент
 
 ## Место проведения
 
 Офис ЦЕРИХ Кэпитал Менеджмент
-
 Всеволожский пер., д.2, стр.2.
-
 Телефон:
-
 events@dei.su
